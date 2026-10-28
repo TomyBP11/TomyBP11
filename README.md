@@ -15,10 +15,12 @@
 
 ## Sobre mí
 
-- Estudiando **Ingeniería en Sistemas Computacionales** en el **Tecnológico de Colima**.
-- Enfocado en el desarrollo **Full Stack** y soluciones de software.
-- Interesado en el **desarrollo web, móvil y conceptos fundamentales de redes e infraestructura**.
-- Constantemente aprendiendo nuevas tecnologías y buenas prácticas de arquitectura.
+## Sobre mí
+
+- **Desarrollo de Software & Web:** Experiencia diseñando y construyendo aplicaciones web, móviles y sistemas a medida enfocados en resolver problemas reales.
+- **Enfoque Full Stack:** Capaz de integrarme tanto en el desarrollo de interfaces (Frontend) como en la arquitectura de servicios y bases de datos (Backend).
+- **Infraestructura & Redes:** Conocimientos prácticos en configuración de redes (direccionamiento IP, DHCP, subredes) y arquitectura cliente-servidor.
+- **Sistemas Operativos & Servidores:** Experiencia administrando y conectando entornos en Linux y Windows Server.
 
 <br>
 
